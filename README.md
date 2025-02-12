@@ -9,7 +9,7 @@ A simple command-line task manager that allows users to add, show, and delete ta
 
 ## How to Use
 1. Clone the repository.
-2. Run the `task_manager.py` file.
+2. Run the `todo.py` file.
 3. Follow the on-screen instructions to add, view, or delete tasks.
 
 ## Requirements
